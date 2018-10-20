@@ -7,7 +7,12 @@
 Динамика понятия "средний класс" в России
 ![Динамика понятия "средний класс" в России](https://github.com/WhyDalek93/DigitalHumanities/blob/master/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.PNG)
 
+Пик употребления этого понятия во Франции также приходится на драматический период её истории - на революцию 1848-1849 годов.
+
+Динамика понятия "средний класс" во Франции
 ![Динамика понятия "средний класс" во Франции](https://github.com/WhyDalek93/DigitalHumanities/blob/master/Classe%20moyenne_France.PNG)
+
+
 
 ![Динамика понятия "средний класс" в Англии](https://github.com/WhyDalek93/DigitalHumanities/blob/master/Middle%20Class_England.PNG)
 
